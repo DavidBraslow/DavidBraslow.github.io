@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Time Management in Deep Learning"
-date:       2019-05-09 22:39:00 +0000
+date:       2019-05-09 18:39:01 -0400
 permalink:  time_management_in_deep_learning
 ---
 
